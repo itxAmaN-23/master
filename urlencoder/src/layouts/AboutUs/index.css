@@ -1,0 +1,39 @@
+.heading
+{
+    padding-top: 70px;
+    background-color: pink;
+    padding-bottom: 70px;
+}
+
+.heading h1
+{
+    text-align: center;
+    color: blue;
+}
+
+.heading p 
+{
+    max-width: fit-content;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+.cards
+{
+    margin-top: 70px;
+    text-align: center;
+    background-color: pink;
+}
+
+.btns
+{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+}
+
+.btns Button
+{
+    /* padding: 10px; */
+}
